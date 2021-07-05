@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ola1312
+- 👀 I’m interested in science, languages and I love travelling.
+- 🌱 I’m currently learning how to code in Python because I already know C.
+- 📫 Contact me via e-mail ola.sajna13@gmail.com
